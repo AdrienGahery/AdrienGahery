@@ -13,7 +13,7 @@ In particular, I'm setting a PostGIS to PySAL pipeline for Geographical Data Sci
 
 ### 🤔 I currently would need some help with...
 
-- [OWSLib](https://pypi.org/project/OWSLib/)'s requests method to grabbing a WFS' data into a GeoPandas' GeoDataFrame. I can't get my head around the [documentation)(https://owslib.readthedocs.io/en/latest/usage.html#wfs)
+- [OWSLib](https://pypi.org/project/OWSLib/)'s requests method to grabbing a WFS' data into a GeoPandas' GeoDataFrame. I can't get my head around the [documentation](https://owslib.readthedocs.io/en/latest/usage.html#wfs)
 - How to make nomnoml UML diagram display correctly in a Jupyter Notebook when it is working OK in Markdown files?
 
 ### 📫 How to reach me
