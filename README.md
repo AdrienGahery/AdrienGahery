@@ -2,7 +2,7 @@
 
 I'm a GIS Database administrator for the French [Ministry of Ecological Transition and Territorial Cohesion](https://www.ecologie.gouv.fr/en/ministry-ecological-transition-and-territorial-cohesion). I'm currently on a leave, and I recently finished a Bachelor's degree in GIS and Statistics.
 
-### 🔭 I'm working on...
+### 🔭 I'm currently learning
 
 I'm currently setting a PostGIS to PySAL pipeline for Geographical Data Science. 
 
