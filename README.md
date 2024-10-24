@@ -1,6 +1,6 @@
-## Adrien Gahéry
+## GeoSpatial DataScience
 
-I've been learning SQL the hard way as I took part in setting up a geographical information system from the ground up. Gathering available data, creating a catalog, streamlining data into our standards, setting up a PostGIS database for the benefit of our whole French Public Office in French Guiana (DGTM).
+I've been learning SQL the hard way, as I took part in setting up a geographical information system from the ground up. Gathering available data, creating a catalog, streamlining data into our standards, setting up a PostGIS database for the benefit of our whole French Public Office in French Guiana (DGTM).
 
 Now that I'm on a professionnal leave, I'm willing to expand my knowledge towards GeoSpatial DataScience. I'm looking to collaborate on Research projects. I chose the the Jupyter Notebook format which is popular in that field.
 
