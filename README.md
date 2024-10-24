@@ -1,6 +1,6 @@
 ## Adrien Gahéry
 
-The core of my job is SQL-based. I've been learning it the hard way, as I took part in setting up a geographical information system from the ground up: gathering available data, setting a catalog, streamlining this data into our standards, setting up a PostGIS server and its architecture, promoting GIS for the benefit of our whole French Public Office in French Guiana((DGTM).
+The core of my job is SQL-based. I've been learning it the hard way, as I took part in setting up a geographical information system from the ground up: gathering available data, setting a catalog, streamlining this data into our standards, setting up a PostGIS server and its architecture, promoting GIS for the benefit of our whole French Public Office in French Guiana (DGTM).
 
 Now that I'm on a professionnal leave, I'm willing to expand my knowledge towards GeoSpatial DataScience. I'm looking to collaborate on Research projects, hence the Jupyter Notebook format which is popular in that field.
 
