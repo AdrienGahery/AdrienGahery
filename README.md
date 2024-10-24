@@ -4,9 +4,9 @@ I've been learning SQL the hard way, as I took part in setting up a geographical
 
 Now that I'm on a professionnal leave, I'm willing to expand my knowledge towards GeoSpatial DataScience. I'm looking to collaborate on Research projects. I chose the the Jupyter Notebook format which is popular in that field.
 
-I want to pick the best out of Geographical Information Systems and Data Science: capabilities in database managment, and complex treatments & calculations. I'm currently setting a [repository](https://github.com/AdrienGahery/GIS-DataScience_Pipeline) focused on Geographical Data Science, using data from one source to perform some treatments from the latter on. 
+I want to pick the best out of Geographical Information Systems and Data Science: capabilities in database managment, and complex treatments & calculations. I'm currently setting a [repository](https://github.com/AdrienGahery/GIS-DataScience_Pipeline) focused on Geographical Data Science, using data from the one source to perform some treatments from the latter on. 
 
-I've been using R for that application during the year-long course I undertook in the University of Grenoble, France. Since I've been discovering Python that very year and it's popular in various applications, I decided I'd give a go to Python spatial analysis libraries.
+I've been using R for that application during the year of study I took in the University of Grenoble, France. Since I've been discovering Python that very year and it's popular in various applications, I decided I'd give a go to Python spatial analysis libraries.
 
 The repository is currently a WIP, I'm learning new stuff from Notebook to Notebook. Here is a list of the ressources I'm using for that project :
 
