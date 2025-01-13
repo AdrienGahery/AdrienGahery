@@ -6,7 +6,7 @@ Now that I am on a professionnal leave, I am willing to expand my knowledge towa
 
 I have been using R for statistics and spatial analysis during the year of study I took in the University of Grenoble, France. Since I have been discovering Python that very year and it is popular in various applications, I decided I would give a go at Python spatial analysis libraries.
 
-Using Python, I want to pick the best out of Geographical Information Systems and Data Science: capabilities in database managment, and Data Mining/Machine Learning treatments. I am currently setting a repository focused on using [Data Science tools with PostGIS](https://github.com/AdrienGahery/GIS-DataScience_Pipeline) geographical data. 
+Using Python, I want to pick the best out of Geographical Information Systems and Data Science: capabilities in database managment, and Data Mining/Machine Learning treatments. I am currently setting a repository focused on using Data Science tools with PostGIS geographical data. 
 
 The repository is currently a Work In Progress, as I am continuously learning from Notebook to Notebook. Here is a list of the ressources I am using for the project I am sharing on GitHub :
 
