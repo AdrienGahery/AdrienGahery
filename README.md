@@ -2,7 +2,7 @@
 
 I have been learning SQL and spatial SQL the hard way, as I took part in setting up a geographical information system from the ground up: gathering available data, creating a catalog, streamlining data into our standards, setting up a PostGIS database, letting the whole French Public Office in French Guiana (DGTM) I was part of benefit from it. This great endeavour also provided me with a precious experience in soft skills, such as network animation and pedagogy.
 
-Now that I am on a professionnal leave, I am willing to expand my knowledge towards GeoSpatial DataScience. I am looking to collaborate on Research projects.
+Now that I am on a professionnal leave, I am willing to expand my knowledge towards GeoSpatial DataScience.
 
 I have been using R for statistics and spatial analysis during the year of study I took in the University of Grenoble, France. Since I have been discovering Python that very year and it is popular in various applications, I decided I would give a go at Python spatial analysis libraries.
 
